@@ -1,1 +1,39 @@
 
+
+div.day-box.PREP{
+    border-style: solid;
+    border-color: red;
+    width: 700px;
+    border-width: thick;
+    margin: 25px;
+}
+
+div.day-box.CURRENT{
+    border-style: solid;
+    border-color: blue;
+    width: 900px;
+    border-width: thick;
+    margin: 25px;
+}
+
+div.day-box.COMPLETED
+{
+    border-style: solid;
+    border-color: green;
+    border-width: thick;
+    width: 1100px;
+    margin: 25px;
+}
+div.nav
+{
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    
+}
+div.username
+{
+    color: white;
+    border-style: solid;
+    border-width: thick;
+}
