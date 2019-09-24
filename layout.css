@@ -46,3 +46,6 @@ body {
         border-width: medium;
         margin: 25px;
     }
+div.header{
+    font-size: 18pt;
+}
