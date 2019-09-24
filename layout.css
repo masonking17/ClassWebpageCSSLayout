@@ -37,3 +37,12 @@ div.username
     border-style: solid;
     border-width: thick;
 }
+body {
+       background-color: orange;}
+body { color: white;}
+    h1 {
+        border-style: solid;
+        border-color: white;
+        border-width: medium;
+        margin: 25px;
+    }
