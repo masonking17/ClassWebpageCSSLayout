@@ -38,11 +38,11 @@ div.username
     border-width: thick;
 }
 body {
-       background-color: orange;}
-body { color: white;}
+       background-color: orange;
+       color: white;}
     h1 {
         border-style: solid;
-        border-color: white;
+        border-color: black;
         border-width: medium;
         margin: 25px;
     }
