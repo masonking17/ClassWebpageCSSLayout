@@ -1,5 +1,8 @@
 
-
+body {
+    background-color: orange;
+    font-size: 16pt;
+}
 div.day-box.PREP{
     border-style: solid;
     border-color: red;
@@ -27,14 +30,13 @@ div.day-box.COMPLETED
 div.nav
 {
     border-style: solid;
-    border-color: black;
+    border-color: purple;
     border-width: thick;
     margin: 25px;
     
 }
 div.nav\logout.button
 {
-<<<<<<< HEAD
   background-color: white;
 color: black;
     border-style: dashed;
@@ -55,21 +57,3 @@ color: red;
   text-decoration: none;
   display: inline-block;
   font-size: 16px; 
-=======
-    color: white;
-    border-style: solid;
-    border-width: thick;
-}
-body {
-       background-color: orange;
-       color: white;}
-    h1 {
-        border-style: solid;
-        border-color: black;
-        border-width: medium;
-        margin: 25px;
-    }
-div.header{
-    font-size: 18pt;
->>>>>>> 54cf7cef754b46bedd997bfa92a3ea6c9e6bedc2
-}
