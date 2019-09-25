@@ -34,6 +34,7 @@ div.nav
 }
 div.nav\logout.button
 {
+<<<<<<< HEAD
   background-color: white;
 color: black;
     border-style: dashed;
@@ -54,4 +55,21 @@ color: red;
   text-decoration: none;
   display: inline-block;
   font-size: 16px; 
+=======
+    color: white;
+    border-style: solid;
+    border-width: thick;
+}
+body {
+       background-color: orange;
+       color: white;}
+    h1 {
+        border-style: solid;
+        border-color: black;
+        border-width: medium;
+        margin: 25px;
+    }
+div.header{
+    font-size: 18pt;
+>>>>>>> 54cf7cef754b46bedd997bfa92a3ea6c9e6bedc2
 }
