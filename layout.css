@@ -1,23 +1,37 @@
-
+h1
+{
+    color: beige;
+    border-style: inset;
+    border-color: purple;
+    margin: 25px;
+    padding: 10px;
+    width: 400px;
+    border-radius: 25px;
+    border-width: thick;
+}
 body {
-    background-color: orange;
+    background-color: darkorange;
     font-size: 16pt;
     padding: 15px;
 }
 div.day-box.PREP{
     border-style: solid;
-    border-color: red;
+    border-color: yellow;
+    padding: 10px;
     width: 700px;
     border-width: thick;
     margin: 25px;
+    border-radius: 25px;
 }
 
 div.day-box.CURRENT{
     border-style: solid;
-    border-color: blue;
+    border-color: red;
     width: 900px;
+    padding: 10px;
     border-width: thick;
     margin: 25px;
+    border-radius: 25px;
 }
 
 div.day-box.COMPLETED
@@ -25,8 +39,10 @@ div.day-box.COMPLETED
     border-style: solid;
     border-color: green;
     border-width: thick;
+    padding: 10px;
     width: 1100px;
     margin: 25px;
+    border-radius: 25px;
 }
 div.nav a
 {
@@ -39,4 +55,21 @@ div.nav a
     font-size: 16pt;
     margin: 10px;
     
+}
+div.day
+{
+    color: white;
+}
+div.reading-box
+{
+    color:saddlebrown;
+}
+div.prep-box a
+{
+    color: black;
+}
+<h1>
+{
+    border-style: outset;
+    border-color: purple;
 }
